@@ -29,4 +29,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=milan-sandeepa&show_icons=true&locale=en" alt="milan-sandeepa" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=milan-sandeepa&" alt="milan-sandeepa" /></p>
+
