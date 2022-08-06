@@ -1,9 +1,9 @@
-![MasterHead](https://cdn.kibrispdr.org/data/1760/digital-marketing-animated-gif-13.gif)
+[![MasterHead](https://cdn.kibrispdr.org/data/1760/digital-marketing-animated-gif-13.gif)
 
 <h1 align="center">Hi 👋, I'm Milan Sandeepa</h1>
 <h3 align="center">A passionate frontend developer from SriLanka.!</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=milan-sandeepa&label=Profile%20views&color=0e75b6&style=flat" alt="milan-sandeepa" /> </p>
 
