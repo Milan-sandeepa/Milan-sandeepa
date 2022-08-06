@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.kibrispdr.org/data/1760/digital-marketing-animated-gif-13.gif)
+![MasterHead](https://cdn.kibrispdr.org/data/1760/digital-marketing-animated-gif-13.gif)
 
 <h1 align="center">Hi 👋, I'm Milan Sandeepa</h1>
 <h3 align="center">A passionate frontend developer from SriLanka.!</h3>
