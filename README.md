@@ -1,7 +1,7 @@
 ![MasterHead](https://cdn.kibrispdr.org/data/1760/digital-marketing-animated-gif-13.gif)
 
 <h1 align="center">Hi 👋, I'm Milan Sandeepa</h1>
-<h3 align="center">A passionate frontend developer from SriLanka.!</h3>
+<h3 align="center">A passionate Fullstack developer from SriLanka.!</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
